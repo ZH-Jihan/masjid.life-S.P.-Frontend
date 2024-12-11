@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Home",
+    "navigate": "/",
+    "role": ["student", "donar", "admin"]
+  },
+  {
+    "name": "Submit Recovery Amount",
+    "navigate": "/recovery-amount",
+    "role": ["student"]
+  },
+  {
+    "name": "Submit Donation Amount",
+    "navigate": "/donation-amount",
+    "role": ["donar"]
+  },
+  {
+    "name": "User Info",
+    "navigate": "/verifyUser",
+    "role": ["student", "donar", "admin"]
+  },
+  {
+    "name": "Create User",
+    "navigate": "/create-user",
+    "role": ["admin"]
+  }
+]
